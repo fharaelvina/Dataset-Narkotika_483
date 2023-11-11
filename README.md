@@ -2,7 +2,7 @@
 
 ## Deskripsi Dataset
 
-Dataset ini berisi informasi putusan Mahkamah Agung Indonesia terkait dengan kasus narkotika. Setiap baris dalam dataset mewakili satu putusan hukum dan mencakup informasi seperti nomor putusan, lembaga peradilan, catatan amar, dan barang bukti (jika ada).
+Dataset ini berisi informasi putusan Mahkamah Agung Indonesia di Pengadilan Negeri Semarang terkait dengan kasus narkotika. Setiap baris dalam dataset mewakili satu putusan hukum dan mencakup informasi seperti nomor putusan, lembaga peradilan, catatan amar, dan barang bukti (jika ada).
 
 ## Struktur Dataset
 
